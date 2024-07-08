@@ -7,3 +7,11 @@ xhofe/alist:latest
 mysql:latest
 busybox:latest
 neo4j:latest
+redis:latest
+ubuntu:latest
+mongo:latest
+httpd:latest
+alpine:latest
+python:3.8
+python:3.9
+docker:latest
