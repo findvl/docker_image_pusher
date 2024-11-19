@@ -192,9 +192,4 @@ postgres:12-alpine
 postgres:11-alpine
 postgres:10-alpine
 postgres:9.6-alpine
-mariadb:latest
-mariadb:10.5
-mariadb:10.4
-mariadb:10.3
-mariadb:10.2
-mariadb:10.1
+mariadb
