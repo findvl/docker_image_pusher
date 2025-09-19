@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:latest
 busybox:latest
-stirling-pdf:latest-fat
+ghcr.io/stirling-tools/stirling-pdf:latest-fat
