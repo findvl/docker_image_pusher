@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:latest
 busybox:latest
 ghcr.io/stirling-tools/stirling-pdf:latest-fat
+vllm/vllm-openai:latest
