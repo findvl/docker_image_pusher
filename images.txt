@@ -8,3 +8,4 @@ mysql:latest
 busybox:latest
 ghcr.io/stirling-tools/stirling-pdf:latest-fat
 vllm/vllm-openai:latest
+cwq1913/lama-cleaner:gpu-1.2.5
